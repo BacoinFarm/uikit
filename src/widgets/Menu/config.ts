@@ -31,7 +31,7 @@ export const links = [
   {
     label: "Certik Audit (In-Progress)",
     icon: "ShieldIcon",
-    href: "https://twitter.com/bacoin/status/1367218225310818308",
+    href: "https://twitter.com/piggybankhrc/status/1367218225310818308",
     target: "_blank",
   },
   {
@@ -134,7 +134,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/bacoin",
+    href: "https://twitter.com/piggybankhrc",
   },
   {
     label: "Discord",
